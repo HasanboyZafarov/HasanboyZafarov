@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Hasanboy Zafarov
 
 🎓 19 y.o. student from **Andijan, Uzbekistan**, currently studying **Cybersecurity (Information Security)** at **TUIT Nukus Branch**.  
-🧠 Focused on becoming a **Senior Software Developer** and passionate about learning **JavaScript** (and all things web).
+🧠 On a journey to become a **Senior Software Developer**, with strong interest in **modern web technologies** and **clean code**.
 
 ---
 
