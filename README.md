@@ -6,7 +6,7 @@
 ---
 
 ## 🛠️ Tech Stack (So Far)
-- **Languages:** JavaScript (Vanilla), HTML, CSS, Python (basic)
+- **Languages:** JavaScript (Vanilla), HTML, CSS, C++ (basic)
 - **Concepts:** Problem solving, logical thinking, data structures
 - **Tools:** Git, GitHub, VSCode, Figma
 - **Currently Rewising:** JavaScript fundamentals, DOM, ES6+, APIs
