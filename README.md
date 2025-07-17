@@ -36,10 +36,12 @@
 
 > _“Consistency beats intensity. 1% better every day.”_
 
--
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HasanboyZafarov&label=Profile%20views&color=0e75b6&style=flat" alt="HasanboyZafarov" /> </p>
--
+
+---
 
 Thanks for visiting my profile!
 
--
+---
