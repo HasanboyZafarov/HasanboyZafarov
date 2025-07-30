@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Hasanboy Zafarov 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com.font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Chess+Lover+♟;React+Learner;Clean+Code+Advocate;Problem+Solver;Future+Full+Stack+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Chess+Lover+♟;React+Learner;Clean+Code+Advocate;Problem+Solver;Future+Full+Stack+Engineer" alt="Typing SVG" />
+</div>
+
+
 </div>
 
 ---
