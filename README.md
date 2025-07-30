@@ -9,7 +9,7 @@
 
 <p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,scss,js,reactjs,git,bash,figma,&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap5,scss,js,reactjs,git,bash,figma,&theme=light" />
 </div>
 </p>
 
