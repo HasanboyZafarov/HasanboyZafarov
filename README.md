@@ -30,12 +30,6 @@
 
 ---
 
-### 💬 Ask Me About
-
-`JavaScript` • `SCSS` • `Folder Roots`
-
----
-
 ### 📫 How to reach me
 
 - Email: [dewozto1337@gmail.com](mailto:dewozto1337@gmail.com)
@@ -52,8 +46,6 @@ I love solving real-world problems and enjoy playing chess in my free time!
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasanboyZafarov&show_icons=true&theme=radical" alt="Hasanboy's GitHub stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanboyZafarov&layout=compact&theme=radical" />
 </p>
 
