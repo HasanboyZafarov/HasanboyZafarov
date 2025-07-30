@@ -14,7 +14,7 @@
 
 <p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,scss,js,react,git,bash,figma,&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,scss,js,react,git,bash,figma&theme=light" />
 </div>
 </p>
 
