@@ -1,59 +1,55 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Hasanboy%20Zafarov&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20UI%20Specialist&descAlignY=58&descSize=18&descColor=a0a0cc" />
+</div>
 
-# Hi, I'm Hasanboy 👋
+<br/>
 
-**Frontend Developer** · Andijan, Uzbekistan 🇺🇿
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+clean+UIs+with+React+%26+TypeScript;Turning+Figma+designs+into+pixel-perfect+code;Always+shipping%2C+always+improving" alt="Typing SVG" />
+</div>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/hasanboyzafarov)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dewozto1337@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/HasanboyZafarov)
-![Profile Views](https://komarev.com/ghpvc/?username=HasanboyZafarov&style=flat&color=grey)
+---
+
+## 👤 About Me
+
+- 🎯 Frontend Developer focused on **React.js & UI craftsmanship**
+- 🎓 Cybersecurity student @ **TUIT Nukus Branch** · Andijan, Uzbekistan 🇺🇿
+- 🧠 I write clean, scalable code — not just code that works
+- ♟️ Chess player. Problem solver. Lifelong learner.
+- 🚀 Goal: Junior → Senior Full-Stack Developer
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+### Languages & Markup
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,scss&theme=dark" />
+
+### Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=react,tailwind,figma,git&theme=dark" />
 
 </div>
 
 ---
 
-### About
-
-19 y/o frontend developer and Cybersecurity student at **TUIT Nukus Branch**.  
-I care about clean code, good UX, and improving every day.  
-Goal: grow from junior frontend → senior full-stack developer.  
-Outside of code, I play chess ♟️
-
----
-
-### Tech Stack
+## 📬 Connect With Me
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,react,git,figma,bash&perline=9" />
-</div>
 
----
+[![Telegram](https://img.shields.io/badge/Telegram-%40hasanboyzafarov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hasanboyzafarov)
+[![Email](https://img.shields.io/badge/Email-dewozto1337@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dewozto1337@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%40HasanboyZafarov-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasanboyZafarov)
 
-### Currently Learning
-
-```
-React.js        ████████░░  80%
-State Mgmt      █████░░░░░  50%
-Node.js         ███░░░░░░░  30%
-Clean Code      ████████░░  80%
-```
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HasanboyZafarov&show_icons=true&theme=default&hide_border=true&count_private=true&hide=prs" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanboyZafarov&layout=compact&theme=default&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanboyZafarov&theme=default&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-  <em>"Consistency beats intensity. 1% better every day."</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer&fontSize=14&fontColor=a0a0cc" />
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=HasanboyZafarov&style=flat-square&color=a78bfa&label=Profile+Views)
+  
+  *"Consistency beats intensity. 1% better every day."*
 </div>
