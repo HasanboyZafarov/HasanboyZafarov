@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Hasanboy%20Zafarov&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20UI%20Specialist&descAlignY=58&descSize=18&descColor=a0a0cc" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,100:302b63&amp;height=200&amp;section=header&amp;text=Hasanboy%20Zafarov&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Frontend%20Developer%20%7C%20React%20%26%20UI%20Specialist&amp;descAlignY=58&amp;descSize=18&amp;descColor=a0a0cc" />
 </div>
 
 <br/>
@@ -47,7 +47,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer&fontSize=14&fontColor=a0a0cc" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:302b63,100:0f0c29&amp;height=100&amp;section=footer&amp;fontSize=14&amp;fontColor=a0a0cc" />
   
   ![Profile Views](https://komarev.com/ghpvc/?username=HasanboyZafarov&style=flat-square&color=a78bfa&label=Profile+Views)
   
