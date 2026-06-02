@@ -1,32 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="280" viewBox="0 0 500 280">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="320" viewBox="0 0 500 320">
   <defs>
     <style>
       .stat-box { fill: #1f2937; stroke: #a78bfa; stroke-width: 2; }
-      .stat-label { font-family: 'Courier New', monospace; font-size: 11px; fill: #a78bfa; }
-      .stat-value { font-family: 'Courier New', monospace; font-size: 28px; font-weight: bold; fill: #fff; }
+      .stat-label { font-family: 'Courier New', monospace; font-size: 10px; fill: #a78bfa; }
+      .stat-value { font-family: 'Courier New', monospace; font-size: 24px; font-weight: bold; fill: #fff; }
       .title { font-family: 'Courier New', monospace; font-size: 16px; font-weight: bold; fill: #a78bfa; }
       .subtitle { font-family: 'Courier New', monospace; font-size: 10px; fill: #999; }
     </style>
   </defs>
 
-  <rect class="stat-box" x="10" y="10" width="480" height="260" rx="8"/>
+  <rect class="stat-box" x="10" y="10" width="480" height="300" rx="8"/>
 
-  <text class="title" x="20" y="35">Commit Stats for HasanboyZafarov</text>
+  <text class="title" x="20" y="35">GitHub Contributions for HasanboyZafarov</text>
 
-  <text class="stat-label" x="30" y="75">Total Commits</text>
-  <text class="stat-value" x="30" y="105">77</text>
+  <text class="stat-label" x="30" y="70">Total Contributions (1y)</text>
+  <text class="stat-value" x="30" y="95">744</text>
 
-  <text class="stat-label" x="180" y="75">This Year</text>
-  <text class="stat-value" x="180" y="105">77</text>
+  <text class="stat-label" x="220" y="70">Commits</text>
+  <text class="stat-value" x="220" y="95">92</text>
 
-  <text class="stat-label" x="330" y="75">This Month</text>
-  <text class="stat-value" x="330" y="105">19</text>
+  <text class="stat-label" x="30" y="135">Pull Requests</text>
+  <text class="stat-value" x="30" y="160">0</text>
 
-  <text class="stat-label" x="30" y="155">Most Active Day</text>
-  <text class="stat-value" x="30" y="185">Wednesday</text>
+  <text class="stat-label" x="160" y="135">Issues</text>
+  <text class="stat-value" x="160" y="160">0</text>
 
-  <text class="stat-label" x="280" y="155">Commits on Wed</text>
-  <text class="stat-value" x="280" y="185">20</text>
+  <text class="stat-label" x="280" y="135">Code Reviews</text>
+  <text class="stat-value" x="280" y="160">0</text>
 
-  <text class="subtitle" x="20" y="260">Updated: 2026-06-02 11:11 UTC</text>
+  <text class="stat-label" x="30" y="205">Most Active Day</text>
+  <text class="stat-value" x="30" y="230">2026-04-06</text>
+
+  <text class="stat-label" x="280" y="205">Max Streak</text>
+  <text class="stat-value" x="280" y="230">32 contrib</text>
+
+  <text class="subtitle" x="20" y="300">Updated: 2026-06-02 06:37 UTC</text>
 </svg>
