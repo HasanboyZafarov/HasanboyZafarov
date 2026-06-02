@@ -84,7 +84,7 @@ svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" width="500" height="28
 
   <rect class="stat-box" x="10" y="10" width="480" height="260" rx="8"/>
 
-  <text class="title" x="20" y="35">Commit Stats — {USERNAME}</text>
+  <text class="title" x="20" y="35">Commit Stats for {USERNAME}</text>
 
   <text class="stat-label" x="30" y="75">Total Commits</text>
   <text class="stat-value" x="30" y="105">{total_commits}</text>
