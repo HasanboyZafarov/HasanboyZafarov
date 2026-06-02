@@ -26,7 +26,7 @@
 
 **Languages & Markup**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
 
 **Frontend Frameworks & Tools**
 
@@ -44,13 +44,16 @@
 
 <div align="center">
 
-[![Hasanboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasanboyZafarov&hide=contribs,prs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/HasanboyZafarov/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanboyZafarov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/HasanboyZafarov/)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HasanboyZafarov&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](./stats/github-stats.svg)
 
 </div>
+
+### Stats Summary
+- 📦 Public Repositories
+- ⭐ Stars Across Projects  
+- 👥 Followers
+
+*Stats auto-updated daily via GitHub Actions*
 
 ---
 
