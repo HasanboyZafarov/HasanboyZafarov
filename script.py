@@ -15,9 +15,10 @@ headers = {
 resp = requests.get("https://api.github.com/user", headers=headers)
 resp.raise_for_status()
 data = resp.json()
+print("API keys:", list(data.keys()))
 
-public = data["public_repos"]
-private = data["total_private_repos"]
+public = data.get("public_repos", 0)
+private = data.get("total_private_repos") or data.get("owned_private_repos", 0)
 total = public + private
 
 line = f"📦 All Repos: {total}  |  🔒 Private: {private}  |  🌐 Public: {public}"
