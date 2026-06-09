@@ -48,10 +48,11 @@
 
 </div>
 
-### Stats Summary
-- 📦 Public Repositories
-- ⭐ Stars Across Projects  
-- 👥 Followers
+### 📊 Stats
+
+<!-- STATS:START -->
+📦 All Repos: 0  |  🔒 Private: 0  |  🌐 Public: 0
+<!-- STATS:END -->
 
 *Stats auto-updated daily via GitHub Actions*
 

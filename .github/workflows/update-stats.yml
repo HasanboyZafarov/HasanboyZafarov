@@ -1,0 +1,40 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update stats
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python script.py
+
+      - name: Commit and push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "🔄 Auto-update stats"
+            git push
+          fi
