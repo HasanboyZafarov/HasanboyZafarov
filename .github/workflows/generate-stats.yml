@@ -31,12 +31,12 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git pull --rebase origin main
           git add stats/
-          if git diff --quiet && git diff --staged --quiet; then
+          if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "chore: update github stats"
-            git pull --rebase origin main
             git push origin main
           fi
         env:
