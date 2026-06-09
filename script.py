@@ -15,8 +15,8 @@ headers = {
 query = """
 query {
   viewer {
-    privateRepos: repositories(privacy: PRIVATE, affiliations: [OWNER]) { totalCount }
-    publicRepos: repositories(privacy: PUBLIC, affiliations: [OWNER]) { totalCount }
+    privateRepos: repositories(privacy: PRIVATE, affiliations: [OWNER], isFork: false) { totalCount }
+    publicRepos: repositories(privacy: PUBLIC, affiliations: [OWNER], isFork: false) { totalCount }
   }
 }
 """
