@@ -8,17 +8,34 @@ TOKEN = os.environ["GH_TOKEN"]
 README = "README.md"
 
 headers = {
-    "Authorization": f"token {TOKEN}",
-    "Accept": "application/vnd.github.v3+json",
+    "Authorization": f"bearer {TOKEN}",
+    "Content-Type": "application/json",
 }
 
-resp = requests.get("https://api.github.com/user", headers=headers)
+query = """
+query {
+  viewer {
+    privateRepos: repositories(privacy: PRIVATE) { totalCount }
+    publicRepos: repositories(privacy: PUBLIC) { totalCount }
+  }
+}
+"""
+
+resp = requests.post(
+    "https://api.github.com/graphql",
+    json={"query": query},
+    headers=headers,
+)
 resp.raise_for_status()
 data = resp.json()
-print("API keys:", list(data.keys()))
 
-public = data.get("public_repos", 0)
-private = data.get("total_private_repos") or data.get("owned_private_repos", 0)
+if "errors" in data:
+    print("GraphQL errors:", data["errors"])
+    raise SystemExit(1)
+
+viewer = data["data"]["viewer"]
+private = viewer["privateRepos"]["totalCount"]
+public = viewer["publicRepos"]["totalCount"]
 total = public + private
 
 line = f"📦 All Repos: {total}  |  🔒 Private: {private}  |  🌐 Public: {public}"
