@@ -24,7 +24,7 @@ jobs:
 
       - name: Update stats
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
         run: python script.py
 
       - name: Commit and push
