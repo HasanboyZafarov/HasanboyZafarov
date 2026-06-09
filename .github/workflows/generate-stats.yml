@@ -36,6 +36,7 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: update github stats"
+            git pull --rebase origin main
             git push origin main
           fi
         env:
