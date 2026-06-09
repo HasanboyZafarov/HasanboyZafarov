@@ -34,7 +34,11 @@ jobs:
           git add README.md
           if git diff --staged --quiet; then
             echo "No changes"
-          else
-            git commit -m "🔄 Auto-update stats"
-            git push
+            exit 0
           fi
+          git commit -m "🔄 Auto-update stats"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin main && break
+            echo "Attempt $i failed, retrying..."
+            sleep 5
+          done
