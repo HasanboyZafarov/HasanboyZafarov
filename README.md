@@ -51,7 +51,7 @@
 ### 📊 Stats
 
 <!-- STATS:START -->
-📦 All Repos: 0  |  🔒 Private: 0  |  🌐 Public: 0
+📦 All Repos: 21  |  🔒 Private: 0  |  🌐 Public: 21
 <!-- STATS:END -->
 
 *Stats auto-updated daily via GitHub Actions*
