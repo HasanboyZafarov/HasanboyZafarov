@@ -71,8 +71,6 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-dewozto1337%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dewozto1337@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%40HasanboyZafarov-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasanboyZafarov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasanboy%20Zafarov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasanboyzafarov)
 
 </div>
