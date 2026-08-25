@@ -27,6 +27,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         run: python scripts/generate_stats.py
 
+      - name: Generate language + contribution cards
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        run: python scripts/generate_extras.py
+
       - name: Commit and push stats
         run: |
           git config --local user.email "action@github.com"
