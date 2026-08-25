@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A78BFA,100:38BDF8&height=200&section=header&text=Hasanboy%20Zafarov&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Frontend%20Developer%20%C2%B7%20React%20Specialist%20%C2%B7%20UI%20Craftsman&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Hasanboy Zafarov — Frontend Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A78BFA,100:38BDF8&height=200&section=header&text=Hasanboy%20Zafarov&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Software%20Front-end%20Engineer%20%C2%B7%20React%20Specialist%20%C2%B7%20UI%20Craftsman&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Hasanboy Zafarov — Software Front-end Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+clean+UIs+with+React+%26+TypeScript;Turning+Figma+designs+into+pixel-perfect+code;Full-stack+journey%3A+frontend+%E2%86%92+backend;Always+shipping%2C+always+improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+clean+UIs+with+React+%26+TypeScript;Turning+Figma+designs+into+pixel-perfect+code;Sweating+the+details+that+others+scroll+past;Always+shipping%2C+always+improving" alt="Typing SVG" />
 
 <br/>
 
@@ -19,12 +19,12 @@
 
 ```ts
 const hasanboy = {
-  role:     "Frontend Developer",
+  role:     "Software Front-end Engineer",
   focus:    ["React.js", "TypeScript", "Modern UI patterns"],
   studying: "Cybersecurity @ TUIT Nukus Branch",
   mindset:  "Clean, scalable, maintainable — not just what works",
   offDuty:  ["♟️ Chess", "🧩 Problem solving", "📚 Learning"],
-  goal:     "Build world-class products as a Senior Full-Stack Developer",
+  goal:     "Build world-class products as a Senior Front-end Engineer",
 } as const;
 ```
 
@@ -32,7 +32,7 @@ const hasanboy = {
 
 | 🎯 &nbsp;Right now | 🌱 &nbsp;Learning | 🚀 &nbsp;Heading toward |
 | :--: | :--: | :--: |
-| Shipping polished React interfaces | Backend & system design | Senior Full-Stack Developer |
+| Shipping polished React interfaces | Advanced React patterns & performance | Senior Front-end Engineer |
 
 </div>
 
@@ -54,7 +54,7 @@ const hasanboy = {
 
 **Frameworks & Tools**
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,figma,git&theme=dark" alt="React, Tailwind, Vite, Figma, Git" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,nodejs,figma,git&theme=dark" alt="React, Tailwind, Vite, Node.js, Figma, Git" />
 
 </td>
 <td align="center" width="33%">
