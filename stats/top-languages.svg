@@ -7,7 +7,9 @@
       .lang-pct { font-family: 'Courier New', monospace; font-size: 13px; fill: #9ca3af; }
       .track { fill: #111827; }
     </style>
-    <clipPath id="barClip"><rect x="20" y="60" width="460" height="12" rx="6"/></clipPath>
+    <clipPath id="barClip">
+      <rect x="20" y="60" width="460" height="12" rx="6"/>
+    </clipPath>
   </defs>
 
   <rect class="card" x="10" y="10" width="480" height="180" rx="8"/>
@@ -15,30 +17,30 @@
 
   <rect class="track" x="20" y="60" width="460" height="12" rx="6"/>
   <g clip-path="url(#barClip)">
-    <rect x="20.0" y="60" width="308.7" height="12" fill="#3178c6"/>
-    <rect x="328.7" y="60" width="74.7" height="12" fill="#e34c26"/>
-    <rect x="403.4" y="60" width="42.1" height="12" fill="#563d7c"/>
-    <rect x="445.5" y="60" width="23.0" height="12" fill="#f1e05a"/>
-    <rect x="468.5" y="60" width="8.1" height="12" fill="#3572A5"/>
-    <rect x="476.5" y="60" width="3.5" height="12" fill="#c6538c"/>
+  <rect x="20.0" y="60" width="360.5" height="12" fill="#3178c6"/>
+  <rect x="380.5" y="60" width="44.8" height="12" fill="#e34c26"/>
+  <rect x="425.3" y="60" width="24.3" height="12" fill="#663399"/>
+  <rect x="449.6" y="60" width="23.2" height="12" fill="#f1e05a"/>
+  <rect x="472.8" y="60" width="4.1" height="12" fill="#3572A5"/>
+  <rect x="476.9" y="60" width="3.1" height="12" fill="#c6538c"/>
   </g>
 
   <circle cx="25" cy="101" r="5" fill="#3178c6"/>
   <text class="lang-name" x="38" y="105">TypeScript</text>
-  <text class="lang-pct" x="225" y="105" text-anchor="end">67.1%</text>
+  <text class="lang-pct" x="225" y="105" text-anchor="end">78.4%</text>
   <circle cx="260" cy="101" r="5" fill="#e34c26"/>
   <text class="lang-name" x="273" y="105">HTML</text>
-  <text class="lang-pct" x="460" y="105" text-anchor="end">16.2%</text>
-  <circle cx="25" cy="127" r="5" fill="#563d7c"/>
+  <text class="lang-pct" x="460" y="105" text-anchor="end">9.7%</text>
+  <circle cx="25" cy="127" r="5" fill="#663399"/>
   <text class="lang-name" x="38" y="131">CSS</text>
-  <text class="lang-pct" x="225" y="131" text-anchor="end">9.1%</text>
+  <text class="lang-pct" x="225" y="131" text-anchor="end">5.3%</text>
   <circle cx="260" cy="127" r="5" fill="#f1e05a"/>
   <text class="lang-name" x="273" y="131">JavaScript</text>
   <text class="lang-pct" x="460" y="131" text-anchor="end">5.0%</text>
   <circle cx="25" cy="153" r="5" fill="#3572A5"/>
   <text class="lang-name" x="38" y="157">Python</text>
-  <text class="lang-pct" x="225" y="157" text-anchor="end">1.8%</text>
+  <text class="lang-pct" x="225" y="157" text-anchor="end">0.9%</text>
   <circle cx="260" cy="153" r="5" fill="#c6538c"/>
   <text class="lang-name" x="273" y="157">SCSS</text>
-  <text class="lang-pct" x="460" y="157" text-anchor="end">0.8%</text>
+  <text class="lang-pct" x="460" y="157" text-anchor="end">0.7%</text>
 </svg>
