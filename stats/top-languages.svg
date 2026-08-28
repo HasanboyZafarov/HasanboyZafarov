@@ -17,26 +17,26 @@
 
   <rect class="track" x="20" y="60" width="460" height="12" rx="6"/>
   <g clip-path="url(#barClip)">
-  <rect x="20.0" y="60" width="361.2" height="12" fill="#3178c6"/>
-  <rect x="381.2" y="60" width="44.5" height="12" fill="#e34c26"/>
-  <rect x="425.7" y="60" width="24.2" height="12" fill="#663399"/>
-  <rect x="449.8" y="60" width="23.0" height="12" fill="#f1e05a"/>
-  <rect x="472.8" y="60" width="4.1" height="12" fill="#3572A5"/>
-  <rect x="476.9" y="60" width="3.1" height="12" fill="#c6538c"/>
+  <rect x="20.0" y="60" width="362.2" height="12" fill="#3178c6"/>
+  <rect x="382.2" y="60" width="43.9" height="12" fill="#e34c26"/>
+  <rect x="426.1" y="60" width="24.1" height="12" fill="#663399"/>
+  <rect x="450.2" y="60" width="22.7" height="12" fill="#f1e05a"/>
+  <rect x="472.9" y="60" width="4.0" height="12" fill="#3572A5"/>
+  <rect x="477.0" y="60" width="3.0" height="12" fill="#c6538c"/>
   </g>
 
   <circle cx="25" cy="101" r="5" fill="#3178c6"/>
   <text class="lang-name" x="38" y="105">TypeScript</text>
-  <text class="lang-pct" x="225" y="105" text-anchor="end">78.5%</text>
+  <text class="lang-pct" x="225" y="105" text-anchor="end">78.7%</text>
   <circle cx="260" cy="101" r="5" fill="#e34c26"/>
   <text class="lang-name" x="273" y="105">HTML</text>
-  <text class="lang-pct" x="460" y="105" text-anchor="end">9.7%</text>
+  <text class="lang-pct" x="460" y="105" text-anchor="end">9.5%</text>
   <circle cx="25" cy="127" r="5" fill="#663399"/>
   <text class="lang-name" x="38" y="131">CSS</text>
-  <text class="lang-pct" x="225" y="131" text-anchor="end">5.3%</text>
+  <text class="lang-pct" x="225" y="131" text-anchor="end">5.2%</text>
   <circle cx="260" cy="127" r="5" fill="#f1e05a"/>
   <text class="lang-name" x="273" y="131">JavaScript</text>
-  <text class="lang-pct" x="460" y="131" text-anchor="end">5.0%</text>
+  <text class="lang-pct" x="460" y="131" text-anchor="end">4.9%</text>
   <circle cx="25" cy="153" r="5" fill="#3572A5"/>
   <text class="lang-name" x="38" y="157">Python</text>
   <text class="lang-pct" x="225" y="157" text-anchor="end">0.9%</text>
