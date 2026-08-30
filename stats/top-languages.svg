@@ -17,10 +17,10 @@
 
   <rect class="track" x="20" y="60" width="460" height="12" rx="6"/>
   <g clip-path="url(#barClip)">
-  <rect x="20.0" y="60" width="349.9" height="12" fill="#3178c6"/>
-  <rect x="369.9" y="60" width="55.4" height="12" fill="#e34c26"/>
-  <rect x="425.2" y="60" width="26.0" height="12" fill="#663399"/>
-  <rect x="451.2" y="60" width="22.0" height="12" fill="#f1e05a"/>
+  <rect x="20.0" y="60" width="350.2" height="12" fill="#3178c6"/>
+  <rect x="370.2" y="60" width="55.2" height="12" fill="#e34c26"/>
+  <rect x="425.4" y="60" width="25.9" height="12" fill="#663399"/>
+  <rect x="451.3" y="60" width="21.9" height="12" fill="#f1e05a"/>
   <rect x="473.2" y="60" width="3.9" height="12" fill="#3572A5"/>
   <rect x="477.1" y="60" width="2.9" height="12" fill="#c6538c"/>
   </g>
