@@ -388,6 +388,7 @@
   <rect x="581" y="121" width="9" height="9" rx="2" fill="#3b2f6b"/>
   <rect x="592" y="55" width="9" height="9" rx="2" fill="#161b22"/>
   <rect x="592" y="66" width="9" height="9" rx="2" fill="#161b22"/>
+  <rect x="592" y="77" width="9" height="9" rx="2" fill="#161b22"/>
 
   <text class="axis" x="486" y="150">Less</text>
   <rect x="518" y="142" width="9" height="9" rx="2" fill="#161b22"/>
