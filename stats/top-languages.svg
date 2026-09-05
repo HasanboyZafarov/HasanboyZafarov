@@ -17,9 +17,9 @@
 
   <rect class="track" x="20" y="60" width="460" height="12" rx="6"/>
   <g clip-path="url(#barClip)">
-  <rect x="20.0" y="60" width="350.2" height="12" fill="#3178c6"/>
-  <rect x="370.2" y="60" width="55.2" height="12" fill="#e34c26"/>
-  <rect x="425.4" y="60" width="25.9" height="12" fill="#663399"/>
+  <rect x="20.0" y="60" width="350.3" height="12" fill="#3178c6"/>
+  <rect x="370.3" y="60" width="55.1" height="12" fill="#e34c26"/>
+  <rect x="425.5" y="60" width="25.9" height="12" fill="#663399"/>
   <rect x="451.3" y="60" width="21.9" height="12" fill="#f1e05a"/>
   <rect x="473.2" y="60" width="3.9" height="12" fill="#3572A5"/>
   <rect x="477.1" y="60" width="2.9" height="12" fill="#c6538c"/>
@@ -27,7 +27,7 @@
 
   <circle cx="25" cy="101" r="5" fill="#3178c6"/>
   <text class="lang-name" x="38" y="105">TypeScript</text>
-  <text class="lang-pct" x="225" y="105" text-anchor="end">76.1%</text>
+  <text class="lang-pct" x="225" y="105" text-anchor="end">76.2%</text>
   <circle cx="260" cy="101" r="5" fill="#e34c26"/>
   <text class="lang-name" x="273" y="105">HTML</text>
   <text class="lang-pct" x="460" y="105" text-anchor="end">12.0%</text>
